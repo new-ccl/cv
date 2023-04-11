@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swordsman's Peosonal Site</title>
+
+<style>
+    body{
+        background-color: #87CBB9;
+    }
+    
+    hr{
+        width: 5%;
+        border-color: grey;
+        border-style: dotted none none;
+        border-width: 20px;
+    }
+</style>
+</head>
+<body>
+    <h1>Swordsman</h1>
+    <img src="peoson.jpg" alt="Peosonal Profile Picture">
+    <em><p>birthday: 2004 year,6 month, 15day</p></em>
+    <p>I am a student of <strong><a href="https://www.cumt.edu.cn/ ">The CUMT</a></strong>,a new coder, will devoted in web developing</p>
+    <hr>
+    <h3>Teaching and Books</h3>
+    <ul>
+        <li>web develop bootcamp</li>
+        <li>app develop bootcamp</li>
+    </ul>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing="50">
+        <tr>
+            <td>ios develop</td>
+            <td>👻👻👻👻👻</td>
+        </tr>
+        <tr>
+            <td>wed develop</td>
+            <td>👻👻👻👻👻</td>
+        </tr>
+    </table>
+    <hr>
+    <h3>Hobbies</h3>
+    <ol>
+        <li>play mobile game</li>
+        <li>play guitar</li>
+        <li>watch movies</li>
+    </ol>
+    <p><a href="contact.html">contact me</a></p>
+</body>
+</html>
